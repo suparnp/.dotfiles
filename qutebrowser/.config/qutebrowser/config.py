@@ -260,7 +260,7 @@ c.fileselect.single_file.command = ["foot", "-e", "--title=menu", "yazi", "--cho
 
 # Fonts
 c.fonts.default_family = "Hack Nerd Font"
-c.fonts.default_size = "14pt"
+c.fonts.default_size = "12pt"
 c.fonts.completion.category = "bold default_size default_family"
 c.fonts.completion.entry = "default_size default_family"
 c.fonts.contextmenu = "default_size default_family"
@@ -405,7 +405,7 @@ c.tabs.wrap = True
 
 # URL
 c.url.auto_search = "naive"
-c.url.default_page = "file:///home/ojas/.config/qutebrowser/homepage/homepage.html"
+c.url.default_page = "file:///home/suparnp/.config/qutebrowser/homepage/homepage.html"
 c.url.incdec_segments = ["path", "query"]
 c.url.open_base_url = True
 c.url.searchengines = {
@@ -449,7 +449,7 @@ c.url.searchengines = {
     'yt': 'https://www.youtube.com/results?search_query={}',
     'yts': 'https://yts.mx/browse-movies/{}/all/all/0/latest/0/all',
 }
-c.url.start_pages = "file:///home/ojas/.config/qutebrowser/homepage/homepage.html"
+c.url.start_pages = "file:///home/suparnp/.config/qutebrowser/homepage/homepage.html"
 c.url.yank_ignored_parameters = ["ref", "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "utm_name"]
 
 # Windows
@@ -458,7 +458,7 @@ c.window.title_format = "{perc}{current_title}{title_sep}qutebrowser"
 c.window.transparent = True
 
 # Zoom
-c.zoom.default = "130%"
+c.zoom.default = "100%"
 c.zoom.levels = ["25%", "33%", "50%", "67%", "75%", "90%", "100%", "110%", "125%", "150%", "175%", "200%", "250%", "300%", "400%", "500%"]
 c.zoom.mouse_divider = 512
 c.zoom.text_only = False

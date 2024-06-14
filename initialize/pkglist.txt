@@ -1,0 +1,4 @@
+neovim
+zsh
+fzf             # Hi
+ripgrep         # this is ripgrep

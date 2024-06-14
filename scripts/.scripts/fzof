@@ -1,0 +1,5 @@
+#!/bin/sh 
+
+fil=$(find ~/. -type f | fzf)
+setsid handlr "$fil" &
+pkill -n $!
