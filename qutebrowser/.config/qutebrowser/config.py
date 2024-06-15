@@ -448,6 +448,7 @@ c.url.searchengines = {
     'wp': 'https://en.wikipedia.org/wiki/{}',
     'yt': 'https://www.youtube.com/results?search_query={}',
     'yts': 'https://yts.mx/browse-movies/{}/all/all/0/latest/0/all',
+    'dnf': 'https://packages.fedoraproject.org/search?query={}'
 }
 c.url.start_pages = "file:///home/suparnp/.config/qutebrowser/homepage/homepage.html"
 c.url.yank_ignored_parameters = ["ref", "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "utm_name"]
